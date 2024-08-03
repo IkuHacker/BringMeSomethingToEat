@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4781aa2b042cc06469bf05d9ab7d888c, type: 3}
+  m_Name: Icecream
+  m_EditorClassIdentifier: 
+  itemName: Glace
+  prefab: {fileID: 3888862895102129650, guid: 89ea9321ff6a61c49b6a1b3c5ece7a89, type: 3}
+  visual: {fileID: 21300000, guid: 338ef75c3f9db7b4a8bd281521d8efc5, type: 3}
